@@ -9,7 +9,7 @@ body {
   background-color: rgba(19, 18, 18, 1);
 }
 .hero-main-container {
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   width: 100%;
 
   display: flex;
@@ -18,7 +18,7 @@ body {
 }
 .hero-sub-container {
   width: 480px;
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -111,7 +111,7 @@ body {
 /* about us */
 
 .abt-main-container {
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   width: 100%;
 
   display: flex;
@@ -121,7 +121,7 @@ body {
 }
 .abt-main-container .abt-sub-container {
   width: 480px;
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
 
   display: flex;
   flex-direction: column;
@@ -171,7 +171,7 @@ body {
 /* end about us */
 
 .con-main-container {
-  height: calc(100vh-80px);
+  height: calc(100dvh-40px);
   width: 400px;
   display: flex;
   justify-content: space-evenly;
@@ -291,7 +291,7 @@ footer {
   height: 100px;
 }
 section {
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -299,7 +299,7 @@ section {
 }
 
 .container {
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   overflow-x: hidden;
   scroll-snap-type: y mandatory;
   overflow-y: scroll;
@@ -309,7 +309,7 @@ section:nth-child(2) {
   /* background-color: red; */
 }
 section:nth-child(3) {
-  height: calc(100vh - 40px);
+  height: calc(100dvh - 40px);
   display: flex;
   justify-content: space-evenly;
   align-items: center;
