@@ -661,16 +661,21 @@ section:nth-child(3) {
     padding: 0;
   }
   .abt-sub-container .mid {
-    height: 60vh;
-    flex-direction: row;
+        height: 60vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+   
   }
   .abt-sub-container .mid .right {
-    display: block;
+    display: flex;
   }
   .abt-sub-container .mid .left img {
-    width: auto;
+    width: 550px;
   }
   .abt-sub-container .mid .left {
+    display:flex;
     height: 60vh;
   }
   .abt-sub-container .mid .mob-r img {
