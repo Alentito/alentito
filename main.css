@@ -515,6 +515,7 @@ section:nth-child(3) {
   display: block;
 }
 .box-r img {
+  width: 100%;
   margin-top: -180px;
 }
 .hidden {
