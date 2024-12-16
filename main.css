@@ -506,9 +506,22 @@ section:nth-child(3) {
   display: none;
 }
 .mob-nav {
-  position: static;
-  width: 100%;
-  height: 40px;
+/*     position: static;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px; */
+    position: absolute;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #16161680;
+    height: 40px;
+    /* filter: blur(1px); */
+    backdrop-filter: blur(30px);
 }
 .box-r {
   height: 60%;
