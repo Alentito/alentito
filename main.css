@@ -79,7 +79,7 @@ body {
 }
 .hero-right .box {
   margin-top: 0;
-  height: 50%;
+  height: 40%;
   width: 100%;
   padding: 30px;
   border-top: 3px solid rgba(75, 75, 75, 1);
@@ -153,7 +153,7 @@ body {
   object-fit: cover;
 }
 .abt-sub-container .mid .left img {
-  width: 420px;
+  width: 100%;
 }
 
 .abt-sub-container a {
@@ -511,7 +511,7 @@ section:nth-child(3) {
   height: 40px;
 }
 .box-r {
-  height: 50%;
+  height: 60%;
   display: block;
 }
 .box-r img {
