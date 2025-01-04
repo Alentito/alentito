@@ -311,7 +311,7 @@ section:nth-child(2) {
 section:nth-child(3) {
   height: calc(100dvh - 40px);
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
   position: relative;
@@ -375,7 +375,7 @@ section:nth-child(3) {
 
 .project-container {
   width: 90%;
-  height: 25%;
+  height: 40%;
   /* width: 400px;
   height: 259px; */
   position: relative;
