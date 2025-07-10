@@ -1,48 +1,101 @@
-<h1 align="center">Hi 👋, I'm Alen Tito</h1>
-<h3 align="center">AI Engineer | UAV Researcher | Full-Stack Developer</h3>
+<h1 align="center">👋 Hello, I'm Alen Tito</h1>
 
 <p align="center">
-  <a href="https://github.com/alentito" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alentito&label=Profile%20views&color=0e75b6&style=flat" alt="alentito" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%7C+M.Tech+in+Data+Science+%7C+Edge+LLM+Researcher+%7C+Tool+Builder&center=true&width=500&height=30" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🔍 About Me
 
-I'm an AI Engineer and Full-Stack Developer passionate about pushing the boundaries of intelligent systems, autonomous UAVs, and open-source tools for research and education.
-
-🎓 Currently pursuing M.Tech in Data Science
-🛠 Creator of the AI Image Generation Plugin for GIMP (FLUX.1)
-🤖 Built an LLM-based HR hiring tool for resume filtering and skill evaluation
-📦 Developed a LangChain RAG web app with context-aware website Q&A
-🧩 Created a drag-and-drop drone programming platform with real-time simulation
-🔍 Researching LLMs for edge devices, exploring mobile-optimized models trained using platforms like Kaggle Notebooks
-🔄 Actively contributing to open-source AI, ML, and research tooling
+🎓 Pursuing **M.Tech in Data Science**  
+🧠 Passionate about **Edge AI**, **LLMs on Mobile**, and practical ML applications  
+🛠 Built real-world tools like:
+- 🔌 **AI Image Generation Plugin for GIMP (FLUX.1)**
+- 🧠 **LLM-based HR Hiring Tool** (Resume ranking, skill testing, auto-emailing)
+- 🌐 **LangChain RAG App** with website-aware question answering
+- 🚁 **Blockly-Based Drone Programming Platform** with real-time 3D simulator  
+📱 Currently exploring **mobile-optimized LLMs** using only Kaggle Notebooks  
+🔄 Contributor to open-source projects in AI, ML, and education  
 
 ---
 
-### 🧩 Featured Projects
+## ⚒️ Skills
+
+**Languages:**  
+Python • JavaScript • TypeScript • Dart • SQL • HTML/CSS • Bash  
+
+**AI/ML Stack:**  
+PyTorch • TensorFlow • Scikit-learn • HuggingFace • OpenCV • LangChain • Streamlit  
+
+**Web & Tools:**  
+React • Vite • Flask • FastAPI • Tailwind • Redis • Celery • Postgres  
+
+**Drone & Edge Platforms:**  
+Crazyflie • Arduino • mmWave • NOMA STAR-RIS • Edge LLM deployment  
+
+**DevOps:**  
+Docker • GitHub Actions • Nginx • VPS Hosting • Firebase  
+
+---
+
+## 🏆 Achievements
+
+🖼️ **GIMP Plugin Developer (FLUX.1)**  
+Developed an AI-powered plugin using Stable Diffusion for seamless art generation in GIMP.
+
+📄 **HR AI Tool**  
+Created an end-to-end LLM-based automation platform for resume parsing, ranking, and evaluation.
+
+🛸 **Blockly Drone Programming**  
+Built a Scratch-like block interface for drones with real-time 3D simulation and code generation.
+
+🔍 **RAG with LangChain**  
+Implemented website scraping + context-based QA using HuggingFace + LangChain + ChromaDB.
+
+📱 **Edge LLM Experiments**  
+Actively experimenting with Tiny LLMs deployable on mobile or IoT-class devices using minimal GPU.
+
+---
+
+## 🚀 Projects
 
 | Project | Description |
 |--------|-------------|
-| 🧠 [AI Image Plugin for GIMP](https://github.com/alentito/flux-gimp-plugin) | GIMP 2.10 plugin using Stable Diffusion 1.5 and FLUX.1 for seamless AI art creation |
-| 📦 [LangChain RAG Web App](https://github.com/alentito/langchain-rag-webapp) | A Retrieval-Augmented Generation (RAG) platform that enables website-aware QA using LangChain + HuggingFace embeddings |
-| 🛸 [Blockly Drone Programming](https://github.com/alentito/crazyflie-blockly) | Drag-and-drop drone control using Blockly + Flask, with real-time 3D simulation via Three.js |
-| 📊 [LSTM Stock Price Predictor](https://github.com/alentito/stock-lstm-model) | Time-series forecasting using deep LSTM networks |
-| 🧬 [Cancer Detection Model](https://github.com/alentito/cancer-classifier) | Deep learning model classifying 'Benign' vs 'Malignant' tumors |
-
-> 🧪 See more pinned projects for demos, notebooks, and real-world applications.
+| 🎨 [GIMP AI Plugin](https://github.com/alentito/flux-gimp-plugin) | GIMP 2.10 plugin powered by Stable Diffusion + FLUX.1 |
+| 🤖 [LLM HR Tool](https://github.com/alentito/hr-ai-screening) | Resume filtering, skill matching, and automation via LLMs |
+| 🧠 [LangChain RAG Web App](https://github.com/alentito/langchain-rag-webapp) | Ask questions about any website using RAG + LangChain |
+| 🚁 [Blockly Drone UI](https://github.com/alentito/crazyflie-blockly) | Drag-and-drop drone control using Blockly + Flask |
+| 📈 [Stock LSTM](https://github.com/alentito/stock-lstm-model) | LSTM model for time-series stock price forecasting |
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 📊 GitHub Stats
 
-```text
-💻 Languages:     Python, JavaScript, TypeScript, Dart, Bash, HTML/CSS, SQL
-🧠 AI/ML:         PyTorch, TensorFlow, Scikit-learn, OpenCV, Stable Diffusion, HuggingFace
-🔗 LangChain:     ChromaDB, HuggingFaceEmbeddings, RAG, Streamlit, Flask
-🧱 Web Dev:       React, Vite, Next.js, Flask, TailwindCSS, Node.js, Django
-🛸 Drones:        Crazyflie, Arduino, mmWave Radar, UAV Simulators, NOMA STAR-RIS
-⚙️ DevOps:        Docker, GitHub Actions, Redis, Celery, Postgres, Nginx
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alentito&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=alentito&theme=dark&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🔍 How to run **LLMs on mobile and edge devices**
+- 📦 Optimizing models using **LoRA, quantization, and distillation**
+- 🤖 Building **AI-powered tools with minimal infra**
+- 💡 Efficient training pipelines on **Kaggle, Google Colab, or low-GPU setups**
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio Website](https://alentito.com) *(or insert your domain)*
+- 📄 [Resume (CV)](https://drive.google.com/your-link) *(replace this)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/alen-tito-98134519a/)
+- 📧 alen.tito.research@gmail.com
+
+---
+
+_“I believe in building AI that works in the real world — fast, lean, and accessible.”_
+
