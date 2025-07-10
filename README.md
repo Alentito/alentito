@@ -23,13 +23,13 @@
 ## ⚒️ Skills
 
 **Languages:**  
-Python • JavaScript • TypeScript • Dart • SQL • HTML/CSS • Bash  
+Python • JavaScript • Java • C • SQL • HTML/CSS • Bash • Php   
 
 **AI/ML Stack:**  
 PyTorch • TensorFlow • Scikit-learn • HuggingFace • OpenCV • LangChain • Streamlit  
 
 **Web & Tools:**  
-React • Vite • Flask • FastAPI • Tailwind • Redis • Celery • Postgres  
+React • Vite • Djnago • RestAPi • Tailwind • Redis • Celery • Postgres  
 
 **Drone & Edge Platforms:**  
 Crazyflie • Arduino • mmWave • NOMA STAR-RIS • Edge LLM deployment  
@@ -90,8 +90,8 @@ Actively experimenting with Tiny LLMs deployable on mobile or IoT-class devices 
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://alentito.com) *(or insert your domain)*
-- 📄 [Resume (CV)](https://drive.google.com/your-link) *(replace this)*
+- 🌐 [Portfolio Website]([https://alentito.com](https://alentito.netlify.app/))
+- 📄 [Resume (CV)](https://drive.google.com/your-link)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alen-tito-98134519a/)
 - 📧 alen.tito.research@gmail.com
 
