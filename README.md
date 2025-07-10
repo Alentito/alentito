@@ -90,7 +90,7 @@ Actively experimenting with Tiny LLMs deployable on mobile or IoT-class devices 
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://alentito.com](https://alentito.netlify.app/)
+- 🌐 [Portfolio Website](https://alentito.netlify.app/)
 - 📄 [Resume (CV)](https://drive.google.com/your-link)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alen-tito-98134519a/)
 - 📧 alen.tito.research@gmail.com
