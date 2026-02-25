@@ -8,8 +8,8 @@
 
 ## 🔍 About Me
 
-🎓 Pursuing **M.Tech in Data Science**  
-🧠 Passionate about **Edge AI**, **LLMs on Mobile**, and practical ML applications  
+🎓 Pursuing **MSc in Data Science**  
+🧠 Passionate about **NeuroAI**, **AgentDev**, and practical ML applications  
 🛠 Built real-world tools like:
 - 🔌 **AI Image Generation Plugin for GIMP (FLUX.1)**
 - 🧠 **LLM-based HR Hiring Tool** (Resume ranking, skill testing, auto-emailing)
